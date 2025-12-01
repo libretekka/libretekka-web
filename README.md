@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 <p align="center">
-<img alt="Logo Banner" src="https://raw.githubusercontent.com/media-vault/mediavault-ux/main/MediaVault - Banner Text Solid.png?sanitize=true"/>
+<img alt="Logo Banner" src="https://raw.githubusercontent.com/libretekka/libretekka-ux/main/libretekka_banner.jpeg?sanitize=true"/>
 </p>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 =======
 # Getting Started with Create React App
->>>>>>> dev
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
